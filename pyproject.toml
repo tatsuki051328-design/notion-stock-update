@@ -1,2 +1,6 @@
+[project]
+name = "notion-stock-update"
+version = "0.1.0"
+
 [tool.vercel]
 entrypoint = "api.rollover:handler"
